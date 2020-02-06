@@ -26,14 +26,14 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 
 ## Coding exercises
 ### Arrays:
-- [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution]())
-- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution]())
-- [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution]())
+- [] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution]())
+- [] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution]())
+- [] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution]())
 
 ### Basic math:
 - [] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution]())
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
-- [] [Plus One](https://leetcode.com/problems/plus-one) ([Solution]())
+- [] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.py))
 - [] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution]())
 - [] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
 
