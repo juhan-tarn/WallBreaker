@@ -26,23 +26,23 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 
 ## Coding exercises
 ### Arrays:
-- [] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution]())
+- [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution](sort-array-by-parity.py))
 - [] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) ([Solution]())
 - [] [Flipping an Image](https://leetcode.com/problems/flipping-an-image) ([Solution]())
 
 ### Basic math:
 - [] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution]())
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
-- [] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.py))
+- [x] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.py))
 - [] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution]())
 - [] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
 
 ### Simple string manipulation:
-- [] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution]())
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.py))
 - [] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution]())
 - [] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution]())
 - [] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution]())
-- [] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution]())
+- [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution](reverse-vowels.py))
 - [] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
 
 ### Simple bitwise manipulation:
