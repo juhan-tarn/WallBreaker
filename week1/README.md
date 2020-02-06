@@ -32,8 +32,8 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 
 ### Basic math:
 - [] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution]())
-- [] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.java))
-- [] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.java))
+- [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
+- [] [Plus One](https://leetcode.com/problems/plus-one) ([Solution]())
 - [] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution]())
 - [] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
 
