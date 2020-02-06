@@ -1,7 +1,7 @@
 # Week 1 Assignment: Basics of Coding And Math
 
 
-Goals
+## Goals
 By the end of this week, students should have their language of choice for the program and for the interviews selected, and should be comfortable writing basic code in that language, as well as handle arrays, basic mathematics, simple bitwise operations, and simple string manipulation with ease and comfortably.
 Bonus: Learn how to implement union-find data structure and solve problems using it.
 ## Topics
