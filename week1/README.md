@@ -34,8 +34,8 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 - [x] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) ([Solution](self-dividing-number.py))
 - [x] [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) ([Solution](fizz-buzz.py))
 - [x] [Plus One](https://leetcode.com/problems/plus-one) ([Solution](plus-one.py))
-- [] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution]())
-- [] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution]())
+- [x] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) ([Solution](excel-sheet-column-number.py))
+- [x] [Power of Two](https://leetcode.com/problems/power-of-two) ([Solution](power-of-two.py))
 
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.py))
