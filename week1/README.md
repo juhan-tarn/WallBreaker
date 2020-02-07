@@ -52,8 +52,8 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 - [] [Single Number](https://leetcode.com/problems/single-number) ([Solution]())
 
 ### Hashmaps and sets:
-- [] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution]())
-- [] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution]())
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) ([Solution](two-sum.py))
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) ([Solution](valid-anagram.py))
 
 ### Union find:
 - [] [Friend Circles](https://leetcode.com/problems/friend-circles) ([Solution]())
