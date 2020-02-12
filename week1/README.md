@@ -23,7 +23,6 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 - https://algocoding.wordpress.com/2014/09/25/union-find-data-structure-disjoint-set-data-structure-part-2/
 
 
-
 ## Coding exercises
 ### Arrays:
 - [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) ([Solution](sort-array-by-parity.py))
@@ -43,7 +42,7 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 - [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution](reverse-words-in-a-string-iii.py))
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.py))
 - [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution](reverse-vowels.py))
-- [] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution](longest-common-prefix.pygit))
 
 ### Simple bitwise manipulation:
 - [] [Number Complement](https://leetcode.com/problems/number-complement) ([Solution]())
