@@ -3,5 +3,5 @@ class Solution:
         reversed = [i[::-1] for i in A]
         for i in range(len(reversed)):
             for j in range(len(reversed)):
-                reversed[i][j] = 1 - reversed[i][j]
+                reversed[i][j] = 1 - reversed[i][j] #or reversed[i][j]^1
         return reversed
