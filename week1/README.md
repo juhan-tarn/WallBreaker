@@ -40,8 +40,8 @@ Bonus: Learn how to implement union-find data structure and solve problems using
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) ([Solution](reverse-string.py))
 - [x] [Detect Capital](https://leetcode.com/problems/detect-capital) ([Solution](detect-capital.py))
-- [] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution]())
-- [] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution]())
+- [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Solution](reverse-words-in-a-string-iii.py))
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Solution](valid-palindrome.py))
 - [x] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) ([Solution](reverse-vowels.py))
 - [] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Solution]())
 
