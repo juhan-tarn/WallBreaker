@@ -7,14 +7,14 @@ Hash maps and hash sets are arguably the most important data structures you will
 ## Week #2 Coding Exercises
 
 ### Hash maps and hash sets
-- [] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution]())
-- [] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution]())
-- [] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution]())
+- [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution](jewels-and-stones.py))
+- [x] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution](unique-morse-code-words.py))
+- [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution](happy-number.py))
 - [] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution]())
 - [] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution]())
 - [] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
 - [] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution]())
-- [] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution]())
+- [x] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution](valid-sudoku.py))
 - [] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution]())
 - [] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution]())
 - [] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution]())
@@ -35,7 +35,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 
 ### Tries
 - [] [Longest Word in a Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) ([Solution]())
-- [] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree) ([Solution]())
+- [x] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree) ([Solution](implement-trie.py))
 - [] [Word Search II](https://leetcode.com/problems/word-search-ii) ([Solution]())
 
 ## Resources
