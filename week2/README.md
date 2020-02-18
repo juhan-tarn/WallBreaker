@@ -15,7 +15,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
 - [] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution]())
 - [x] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution](valid-sudoku.py))
-- [] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution]())
+- [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-string.py))
 - [] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution]())
 - [] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution]())
 - [] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution]())
