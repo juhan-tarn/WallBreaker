@@ -1,4 +1,5 @@
 class Solution:
+    import collections
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
         for c in "!?',;.":
             paragraph = paragraph.replace(c, " ")

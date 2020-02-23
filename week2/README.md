@@ -23,10 +23,10 @@ Hash maps and hash sets are arguably the most important data structures you will
 ### Multisets
 - [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ([Solution](find-all-anagrams-in-a-stringpy))
 	- Note: Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
-- [] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution]())
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.py))
 - [x] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution](subdomain-visit-count.py))
 - [] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution]())
-- [] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution]())
+- [x] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution](most-common-word.py))
 - [] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution]())
 - [] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution]())
 	- Note: This one has a few “clever” solutions but feel free to use a simple multiset solution.
