@@ -9,7 +9,7 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 ### Greedy algorithms
 - [] [Lemonate Change](https://leetcode.com/problems/lemonade-change) ([Solution]())
 - [] [Assign Cookies](https://leetcode.com/problems/assign-cookies) ([Solution]())
-- [] [Is Subsequence](https://leetcode.com/problems/is-subsequence) ([Solution]())
+- [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence) ([Solution](is-subsequence.py))
 - [] [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) ([Solution]())
 - [] [Partition Labels](https://leetcode.com/problems/partition-labels) ([Solution]())
 
@@ -47,3 +47,4 @@ Same problems as above, but use dynamic programming this time
 - [Demystifying Dynamic Programming](https://www.freecodecamp.org/news/demystifying-dynamic-programming-3efafb8d4296/)
 - [Dynamic Programming With Python](https://hackernoon.com/dynamic-programming-python-80f944aa6e6c)
 - [Sorting In Python](https://www.programiz.com/python-programming/methods/list/sort)
+
